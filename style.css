@@ -1,0 +1,20 @@
+.bg-my{
+    background: #FCEAE8;
+}
+#bg-watch{
+    background: #ffbd07;
+}
+#bg-bag{
+    background: rgba(227, 104, 243, 0.87);
+}
+#bg-shoe{
+    background: rgba(12, 12, 235, 0.925);
+}
+.my-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+
+}
